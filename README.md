@@ -55,4 +55,5 @@ spam-email-classifier/
 4. vectorizer.pkl    -TF-IDF vectorizer
 5. spam.csv          -Dataset
 6. requirements.txt  -Dependencies
+   
 7.README.md          -Project documentation
