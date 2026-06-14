@@ -1,4 +1,4 @@
-# spam--email--classifier
+spam--email--classifier
 AI-powered spam email classifier using ML
 
 📧 Spam Email Classifier
