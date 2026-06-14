@@ -1,5 +1,6 @@
 # spam--email--classifier
 AI-powered spam email classifier using ML
+
 📧 Spam Email Classifier
 
 A machine learning web app that classifies messages as Spam or Not Spam (Ham) using Natural Language Processing and Naive Bayes algorithm.
@@ -55,5 +56,4 @@ spam-email-classifier/
 4. vectorizer.pkl    -TF-IDF vectorizer
 5. spam.csv          -Dataset
 6. requirements.txt  -Dependencies
-   
 7.README.md          -Project documentation
