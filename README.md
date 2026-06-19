@@ -7,7 +7,7 @@ AI-powered spam email classifier using ML
 A machine learning web app that classifies messages as Spam or Not Spam (Ham) using Natural Language Processing and Naive Bayes algorithm.
 
 🚀 Live Demo
-[Add your deployed app link here once deployed]
+[https://spam--email--classifier-hhsnmxxssxwumummmg5rey.streamlit.app/]
 
 📋 Features
 - Real-time spam detection
