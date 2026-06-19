@@ -38,7 +38,7 @@ A machine learning web app that classifies messages as Spam or Not Spam (Ham) us
 💻 How to Run Locally
 
 1. Clone this repository
-git clone https://github.com/yourusername/spam-email-classifier.git
+git clone https://github.com/kiruthikakolanji/spam-email-classifier.git
 cd spam-email-classifier
 
 2. Install dependencies
